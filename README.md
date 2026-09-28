@@ -1,2 +1,2 @@
-\# Caderno Tem·tico
+\# Caderno Tem√°tico
 
