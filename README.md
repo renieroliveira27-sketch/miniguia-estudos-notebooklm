@@ -18,7 +18,12 @@ Durante a exploração do NotebookLM, percebi que perguntas muito genéricas tra
 
 **Teste 1: Tentando entender os pilares do SRE**
 - **Prompt inicial:** "Me explique tudo sobre SRE."
-- **A Cicatriz (O que deu errado):** A resposta foi gigante, um bloco de texto cansativo que não me ajudou a fixar os conceitos.
+- **A Cicatriz (O que deu errado):** A IA me retornou uma "muralha de texto" enorme e cansativa, com mais de 5 tópicos longos misturando origens do Google, fórmulas matemáticas de erro e listas de habilidades. Estava correto, mas não servia como um resumo rápido para estudo.
+- **A Solução:** Percebi que precisava ser mais específico para criar um guia prático.
+
+**Teste 2: Refinando para criar o Guia**
+- **Prompt Refinado:** "Atue como um Engenheiro SRE Sênior. Liste os 4 principais pilares do SRE (como SLI, SLO, SLA e Error Budgets) e explique cada um deles em apenas um parágrafo com uma analogia simples."
+- **Resultado:** A resposta foi perfeita. A IA trouxe analogias cotidianas (como comparar o SLI a um velocímetro de carro) que facilitam o aprendizado e são ideais para o Miniguia.
 
 ## Miniguia de Estudo
 ### Resumos
