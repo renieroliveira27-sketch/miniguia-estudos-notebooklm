@@ -26,10 +26,24 @@ Durante a exploração do NotebookLM, percebi que perguntas muito genéricas tra
 - **Resultado:** A resposta foi perfeita. A IA trouxe analogias cotidianas (como comparar o SLI a um velocímetro de carro) que facilitam o aprendizado e são ideais para o Miniguia.
 
 ## Miniguia de Estudo
-### Resumos
-(Resumo do assunto)
-### Glossário
-(Termos importantes e seus significados)
-### Prompts Reutilizáveis
-(Prompts que outras pessoas podem usar para estudar isso)
 
+### Resumos
+**O que é SRE (Site Reliability Engineering)?**
+O SRE é uma disciplina criada pelo Google que aplica práticas de engenharia de software para resolver problemas de infraestrutura e operações de TI. A ideia central é tratar a operação de sistemas como um problema de software, com o objetivo de manter aplicações altamente disponíveis, escaláveis e confiáveis. 
+
+A regra de ouro do SRE é que a equipe deve gastar no máximo 50% do seu tempo apagando incêndios (trabalho manual operacional). Os outros 50% devem ser dedicados a criar automações e melhorias para que o sistema rode de forma autônoma.
+
+### Glossário
+
+- **SLI (Service Level Indicator):** É a métrica quantitativa real que mede o comportamento do serviço em tempo real. 
+  - *Analogia:* É o velocímetro de um carro, que indica a velocidade exata naquele instante.
+- **SLO (Service Level Objective):** É a meta numérica interna que a equipe estabelece para o SLI. 
+  - *Analogia:* É a placa de limite de velocidade da rodovia que o motorista deve respeitar.
+- **SLA (Service Level Agreement):** É o contrato formal comercial com o cliente final, prevendo penalidades se não for cumprido.
+  - *Analogia:* É a apólice de seguro ou garantia da viagem.
+- **Error Budget (Orçamento de Erro):** A margem de falha tolerada pelo sistema, permitindo riscos calculados para novas funcionalidades.
+  - *Analogia:* É a cota de pontos da carteira de motorista para pequenos deslizes.
+  
+### Prompts Reutilizáveis
+- "Atue como um Engenheiro SRE Sênior e explique [conceito] usando uma analogia do dia a dia."
+- "Quais são as diferenças práticas entre [termo A] e [termo B] no dia a dia de um Analista de SRE?"
