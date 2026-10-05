@@ -1,6 +1,6 @@
 \# Caderno Temático
 ## Contexto e Objetivos
-O tema escolhido para este caderno é Site Reliability Engineering (SRE). Atualmente atuo como analista de Comand Center/Analista de Observabilidade lidando com monitoramento de sistemas. Meu principal objetivo com esse estudo é dar o próximo passo na minha carreira naminha rumo a Engenharia de Confiabilidade (SRE). Quero aprender os principios de como desenhar, automatizar e manter aplicações altamente escaláveis e resilientes.
+O tema escolhido para este caderno é Site Reliability Engineering (SRE). Atualmente atuo como analista de Comand Center/Analista de Observabilidade lidando com monitoramento de sistemas. Meu principal objetivo com esse estudo é dar o próximo passo na minha carreira rumo a Engenharia de Confiabilidade (SRE). Quero aprender os princípios de como desenhar, automatizar e manter aplicações altamente escaláveis e resilientes.
 ## Curadoria de Fontes
 Para a construção deste material, foram selecionadas referências que cobrem desde os conceitos fundamentais até as práticas de observabilidade no dia a dia. As fontes utilizadas no NotebookLM foram:
 
