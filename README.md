@@ -1,9 +1,10 @@
 \# Caderno Temático
 
-## Contexto e Objetivos
+## 🎯 Contexto e Objetivos
 
 O tema escolhido para este caderno é Site Reliability Engineering (SRE). Atualmente atuo como analista de Comand Center/Analista de Observabilidade lidando com monitoramento de sistemas. Meu principal objetivo com esse estudo é dar o próximo passo na minha carreira rumo a Engenharia de Confiabilidade (SRE). Quero aprender os princípios de como desenhar, automatizar e manter aplicações altamente escaláveis e resilientes.
-## Curadoria de Fontes
+
+## 📚 Curadoria de Fontes
 
 Para a construção deste material, foram selecionadas referências que cobrem desde os conceitos fundamentais até as práticas de observabilidade no dia a dia. As fontes utilizadas no NotebookLM foram:
 
@@ -13,7 +14,7 @@ Para a construção deste material, foram selecionadas referências que cobrem d
 - [Introdução à Observabilidade | OpenTelemetry](https://opentelemetry.io/pt/docs/concepts/observability-primer/)
 - [Melhores Práticas de SRE | DevOps](https://www.youtube.com/watch?v=5P58B3wv9RE)
 
-## Engenharia de Prompts e Cicatrizes
+## 🧠 Engenharia de Prompts e Cicatrizes
 Durante a exploração do NotebookLM, percebi que perguntas muito genéricas traziam respostas muito longas e difíceis de transformar em um guia. Precisei refinar os prompts para obter resultados mais práticos.
 
 **Teste 1: Tentando entender os pilares do SRE**
@@ -25,7 +26,7 @@ Durante a exploração do NotebookLM, percebi que perguntas muito genéricas tra
 - **Prompt Refinado:** "Atue como um Engenheiro SRE Sênior. Liste os 4 principais pilares do SRE (como SLI, SLO, SLA e Error Budgets) e explique cada um deles em apenas um parágrafo com uma analogia simples."
 - **Resultado:** A resposta foi perfeita. A IA trouxe analogias cotidianas (como comparar o SLI a um velocímetro de carro) que facilitam o aprendizado e são ideais para o Miniguia.
 
-## Miniguia de Estudo
+## 🚀 Miniguia de Estudo
 
 ### Resumos
 **O que é SRE (Site Reliability Engineering)?**
@@ -47,3 +48,8 @@ A regra de ouro do SRE é que a equipe deve gastar no máximo 50% do seu tempo a
 ### Prompts Reutilizáveis
 - "Atue como um Engenheiro SRE Sênior e explique [conceito] usando uma analogia do dia a dia."
 - "Quais são as diferenças práticas entre [termo A] e [termo B] no dia a dia de um Analista de SRE?"
+
+---
+**Desenvolvido por Renier Oliveira**
+- [LinkedIn](https://www.linkedin.com/in/renieroliveira/)
+- [GitHub](https://github.com/renieroliveira27-sketch)
